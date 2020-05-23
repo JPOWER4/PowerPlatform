@@ -1,0 +1,1 @@
+https://teamsdevtrainer.crm.dynamics.com/api/data/v8.1
